@@ -12,11 +12,12 @@
 
 2.1 适用本协议的HyperCam平台包括但不限于以下服务：
 
-2.1.1 HyperCam网站（www.hypercam.cn）及HyperCam移动客户端，含其他任何由HyperCam直接所有或运营的任何网站平台（下称“HyperCam网站”）；
+2.1.1 HyperCam网站及HyperCam移动客户端，含其他任何由HyperCam直接所有或运营的任何网站平台（下称“HyperCam网站”）；
 
 2.1.2 HyperCam直接拥有或运营的客户端包括但不限于PC、平板、手机、电视、机顶盒等全部终端客户端产品平台（下称“HyperCam客户端”）；
 
 2.1.3 HyperCam的其他技术和/或服务（下称“HyperCam其他技术和服务”）。
+
 （以上服务统称为“HyperCam服务”，上述服务所在的平台统称“HyperCam平台”）。
 
 2.2 特别排除：HyperCam所提供的服务，均仅限于您在上述平台使用，任何方式将HyperCam内容与平台分离、隐藏的使用行为，均不属于本协议中约定的HyperCam服务。由此引起的一切法律后果由行为人负责，HyperCam将依法追究行为人的法律责任，并停止向您提供服务。
